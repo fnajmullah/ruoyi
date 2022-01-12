@@ -2,6 +2,7 @@
 This is Permission management system based on spring boot using java.
 
 you should have mysql server running
-reder server running
+redis server running
 nginx running
-
+you can git from: https://gitee.com/y_project/RuoYi
+and read documentation i have translated and debugged step by step in word file.
